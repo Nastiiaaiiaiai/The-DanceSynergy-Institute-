@@ -1,7 +1,0 @@
-The name of our website is The DanceSynergy Institute. 
-The website menu consists of the following pages:
-1. Home page
-2. About us
-3. All dance styles
-4. Where we work?
-5. Our contacts
