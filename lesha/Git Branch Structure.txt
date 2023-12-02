@@ -1,0 +1,24 @@
+Main Branch (master):
+- Contains the finalized, merged changes from other branches
+
+Branches:
+1. main-page
+   - Create the main page content
+   - Store related videos/photos in this branch
+
+2. about-us
+   - Develop the 'About Us' page content
+   - Include relevant videos/photos in this branch
+
+3. vacancies
+   - Work on the 'Vacancies' page content
+   - Upload job descriptions, requirements, etc.
+
+4. team-members
+   - Create separate pages for each team member
+   - Include their personal info, bios, and associated videos/photos
+   
+Merge Workflow:
+- Create a branch for each page or section
+- Add content and related files (videos, photos) to the respective branches
+- After creating a page, merge changes from the current branch into the main branch (master)
