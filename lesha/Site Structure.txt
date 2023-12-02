@@ -1,0 +1,19 @@
+Main Page: 
+- Welcome message and introduction to the company
+- Links to 'About Us,' 'Vacancies,' and 'Team Members'
+
+About Us:
+- Overview of the company's history, mission, and values
+- Information about the team, work culture, and achievements
+- Links to videos or photos showcasing the workspace and team activities
+
+Vacancies:
+- Current job openings, job descriptions, and requirements
+- Instructions on how to apply and join the team
+
+Team Members (Separate pages for each member):
+- Personal information, role within the company, and brief bio
+- Links to videos or photos related to the team member's work or interests
+
+Site Menu:
+- Navigation menu containing links to all pages: Main Page, About Us, Vacancies, Team Members' pages
